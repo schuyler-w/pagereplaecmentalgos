@@ -1,13 +1,5 @@
 /*
- * Program 4
- * Name: Schuyler Wang
- * cssc1766@edoras.sdsu.edu
- * August 6, 2023
- */
-
-/*
  *  Implementation of FIFO and LRU page replacement algorithm
- *  Please add appropriate level of comments in this file 
  */
 
 #include "vmalgorithm.h"
