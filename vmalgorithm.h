@@ -1,10 +1,3 @@
-/*
- * Program 4
- * Name: Schuyler Wang
- * cssc1766@edoras.sdsu.edu
- * August 6, 2023
- */
-
 /********************************************
  * Page Replacement Simulation: header file
  *******************************************/
